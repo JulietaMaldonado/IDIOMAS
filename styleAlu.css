@@ -1,0 +1,54 @@
+/*GENERAL*/
+.tituloPagina {
+  font-size: 26px;
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+/*PERFIL*/
+.usuario {
+  width: 70%;
+  margin-left: 170px;
+  margin-right: 170px;
+  margin-top: 40px;
+}
+.iconoUsuario {
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+}
+.nombreUsuario {
+  font-size: 26px;
+  margin-left: 20px;
+  margin-top: 10x;
+  margin-bottom: 15px;
+}
+.contenedorEnlances {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+/*MENSAJERIA*/
+.tarjetaMensajes {
+  margin-top: 30px;
+}
+/*DESCRIPCION DE CURSO*/
+.label1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.contenedorDescripcion {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin-left: 150px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  height: fit-content;
+}
+.contenedorInfo1 {
+  margin-left: 150px;
+  margin-bottom: 50px;
+}

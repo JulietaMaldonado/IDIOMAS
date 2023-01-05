@@ -1,0 +1,117 @@
+/*GENERAL*/
+.tituloPagina {
+  font-size: 26px;
+  margin-left: 30px;
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+/*PERFIL*/
+.iconoUsuario {
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+}
+.nombreUsuario {
+  font-size: 26px;
+  margin-left: 20px;
+  margin-top: 10x;
+  margin-bottom: 15px;
+}
+.crearCursoBoton {
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  margin-left: 980px;
+}
+/**/
+.usuario {
+  width: 70%;
+  margin-left: 170px;
+  margin-right: 170px;
+  margin-top: 40px;
+}
+.contenedorEnlances {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.crearCursoEnlace {
+  font-size: 36px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  text-decoration: none;
+}
+/*NUEVO CURSO*/
+.formularioCurso {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.accionesCurso {
+  width: 80%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.botonCursoAccion {
+  margin-right: 15px;
+}
+.label1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.input1 {
+  height: 40px;
+  margin-bottom: 20px;
+}
+.tipoClase {
+  display: flex;
+  flex-direction: row;
+}
+.detalleCurso {
+  margin-bottom: 20px;
+}
+.agregarMaterial {
+  margin-bottom: 20px;
+}
+.agregarContenido {
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  margin-left: 20px;
+}
+/*DESCRIPCION DE CURSO*/
+.admitirContenedor {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.botonAdmitirAccion {
+  margin-right: 15px;
+}
+/*MENSAJERIA*/
+.mensajes {
+  margin-left: 200px;
+}
+.alumnosSelect {
+  width: 150px;
+  height: fit-content;
+  padding: 10px;
+}
+.tiposMensajes {
+  width: 70%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.tarjetaMensajes {
+  margin-top: 30px;
+}
+.alumnosLista {
+  width: 90%;
+}
