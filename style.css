@@ -1,0 +1,58 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.input1 {
+  height: 40px;
+  margin-top: 10px;
+  border: none;
+}
+.tituloTipoUsuario {
+  text-align: center;
+}
+.contenedorTipoUsuario {
+  display: flex;
+  justify-content: center;
+  margin: 35px;
+}
+.cont2 {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.cont3 {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+.accederBoton {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+.crearBoton {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.nuevoUsuarioLink {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+.nuevoUsuarioLink:hover {
+  color: red;
+}
+.cont4 {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.accerderEnlace {
+  color: white;
+  text-decoration: none;
+}
